@@ -12,6 +12,7 @@ development = [
     "jsonschema==4.18.4",
     "marshmallow-objects~=2.3",
     "mypy==1.8.0",
+    "packaging>=17.0",
     "parametrize==0.1.1",
     "pre-commit>=1.14.4",
     "pytest~=7.4",
